@@ -51,199 +51,889 @@ build cmake_object_order_depends_target_C__: phony || .
 
 build CMakeFiles/C__.dir/main.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/main.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/main.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/dijkstras_algorithm.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/dijkstras_algorithm.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/dijkstras_algorithm.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/reverse_linked_list.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/reverse_linked_list.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/reverse_linked_list.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/merge_linked_lists.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/merge_linked_lists.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/merge_linked_lists.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/shift_linked_list.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/shift_linked_list.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/shift_linked_list.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/lowest_common_manager.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/lowest_common_manager.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/lowest_common_manager.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/interweaving_strings.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/interweaving_strings.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/interweaving_strings.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/find_loop.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/find_loop.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/find_loop.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/climbing_stairs.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/climbing_stairs.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/climbing_stairs.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/minimum_score_triangulation_of_polygon.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_score_triangulation_of_polygon.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/minimum_score_triangulation_of_polygon.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/egg_drop.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/egg_drop.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/egg_drop.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/burst_ballons.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/burst_ballons.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/burst_ballons.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/solve_sudoku.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/solve_sudoku.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/solve_sudoku.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/generate_div_tags.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/generate_div_tags.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/generate_div_tags.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/ambiguous_measurement.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/ambiguous_measurement.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/ambiguous_measurement.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/shifted_binary_search.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/shifted_binary_search.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/shifted_binary_search.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/search_for_range.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/search_for_range.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/search_for_range.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/quick_sort.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/quick_sort.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/quick_sort.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/quick_select.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/quick_select.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/quick_select.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/index_equals_value.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/index_equals_value.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/index_equals_value.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/heap_sort.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/heap_sort.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/heap_sort.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/shorten_path.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/shorten_path.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/shorten_path.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/largest_rectangle_under_skyline.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/largest_rectangle_under_skyline.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/largest_rectangle_under_skyline.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/longest_substring_without_duplication.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_substring_without_duplication.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/longest_substring_without_duplication.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/maximum_subarray.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximum_subarray.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/maximum_subarray.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/insert_interval.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/insert_interval.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/insert_interval.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/01_matrix.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/01_matrix.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/01_matrix.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/k_closest_points_to_origin.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/k_closest_points_to_origin.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/k_closest_points_to_origin.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/3sum.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/3sum.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/3sum.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/binary_tree_level_order_traversal.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/binary_tree_level_order_traversal.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/binary_tree_level_order_traversal.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/clone_graph.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/clone_graph.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/clone_graph.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/postfix_evaluate.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/postfix_evaluate.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/postfix_evaluate.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
 build CMakeFiles/C__.dir/course_schedule.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/course_schedule.cpp || cmake_object_order_depends_target_C__
   DEP_FILE = CMakeFiles/C__.dir/course_schedule.cpp.o.d
-  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7 -fcolor-diagnostics
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minimum_fountains.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_fountains.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minimum_fountains.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/max_events_attended.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/max_events_attended.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/max_events_attended.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_binary_tree_consecutive_sequence.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_binary_tree_consecutive_sequence.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_binary_tree_consecutive_sequence.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_substring_containing_vowels_in_even.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_substring_containing_vowels_in_even.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_substring_containing_vowels_in_even.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minimum_window_substring.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_window_substring.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minimum_window_substring.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/contains_duplicate_2.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/contains_duplicate_2.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/contains_duplicate_2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_harmonious_subsequence.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_harmonious_subsequence.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_harmonious_subsequence.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/maximum_average_subarray.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximum_average_subarray.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/maximum_average_subarray.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/find_k_beauty_of_number.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/find_k_beauty_of_number.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/find_k_beauty_of_number.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/maximum_length_substring.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximum_length_substring.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/maximum_length_substring.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_nice_substring.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_nice_substring.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_nice_substring.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/trapping_rain_water.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/trapping_rain_water.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/trapping_rain_water.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/word_ladder.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/word_ladder.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/word_ladder.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/basic_calculator.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/basic_calculator.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/basic_calculator.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/infix_to_postfix.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/infix_to_postfix.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/infix_to_postfix.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/maximum_profit_in_job_scheduling.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximum_profit_in_job_scheduling.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/maximum_profit_in_job_scheduling.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/largest_rectangle_in_histogram.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/largest_rectangle_in_histogram.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/largest_rectangle_in_histogram.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/sliding_window_maximum.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/sliding_window_maximum.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/sliding_window_maximum.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/first_missing_positive.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/first_missing_positive.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/first_missing_positive.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/paliindrome_pairs.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/paliindrome_pairs.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/paliindrome_pairs.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/word_ladder_2.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/word_ladder_2.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/word_ladder_2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/bus_routes.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/bus_routes.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/bus_routes.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_increasing_path_in_matrix.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_increasing_path_in_matrix.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_increasing_path_in_matrix.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/lru_cache.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/lru_cache.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/lru_cache.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/reverse_nodes_in_k_group.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/reverse_nodes_in_k_group.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/reverse_nodes_in_k_group.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/smallest_range_covering_elements_from_k_lists.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/smallest_range_covering_elements_from_k_lists.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/smallest_range_covering_elements_from_k_lists.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/binary_tree_maximum_path_sum.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/binary_tree_maximum_path_sum.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/binary_tree_maximum_path_sum.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/maximum_frequency_stack.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximum_frequency_stack.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/maximum_frequency_stack.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/n_queens.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/n_queens.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/n_queens.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/super_egg_drop.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/super_egg_drop.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/super_egg_drop.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/evaluate_reverse_polish_notation.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/evaluate_reverse_polish_notation.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/evaluate_reverse_polish_notation.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/implement_trie.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/implement_trie.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/implement_trie.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/coin_change.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/coin_change.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/coin_change.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/product_of_array_except_self.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/product_of_array_except_self.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/product_of_array_except_self.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/validate_binary_search_tree.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/validate_binary_search_tree.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/validate_binary_search_tree.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/number_of_islands.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/number_of_islands.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/number_of_islands.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/rotting_oranges.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/rotting_oranges.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/rotting_oranges.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/combination_sum.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/combination_sum.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/combination_sum.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/permutations.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/permutations.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/permutations.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/lowest_common_ancestor_of_binary_tree.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/lowest_common_ancestor_of_binary_tree.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/lowest_common_ancestor_of_binary_tree.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/word_break.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/word_break.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/word_break.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/partition_equal_subset_sum.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/partition_equal_subset_sum.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/partition_equal_subset_sum.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/subsets.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/subsets.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/subsets.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/binary_tree_right_side_view.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/binary_tree_right_side_view.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/binary_tree_right_side_view.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/unique_paths.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/unique_paths.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/unique_paths.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/construct_binary_tree_from_preorder_inorder.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/construct_binary_tree_from_preorder_inorder.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/construct_binary_tree_from_preorder_inorder.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/container_with_most_water.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/container_with_most_water.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/container_with_most_water.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/word_search.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/word_search.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/word_search.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/find_all_anagrams_in_string.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/find_all_anagrams_in_string.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/find_all_anagrams_in_string.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minimum_height_trees.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_height_trees.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minimum_height_trees.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/task_scheduler.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/task_scheduler.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/task_scheduler.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/kth_smallest_element_in_bst.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/kth_smallest_element_in_bst.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/kth_smallest_element_in_bst.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/daily_temperatures.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/daily_temperatures.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/daily_temperatures.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/house_robber.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/house_robber.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/house_robber.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minesweeper.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minesweeper.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minesweeper.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/partition_to_k_equal_subsets.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/partition_to_k_equal_subsets.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/partition_to_k_equal_subsets.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/merge_sort.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/merge_sort.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/merge_sort.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/gas_station.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/gas_station.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/gas_station.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/serialize_deserialize_binary_tree.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/serialize_deserialize_binary_tree.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/serialize_deserialize_binary_tree.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_valid_parentheses.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_valid_parentheses.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_valid_parentheses.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/zero_array_transformation.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/zero_array_transformation.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/zero_array_transformation.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/meeting_rooms_2.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/meeting_rooms_2.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/meeting_rooms_2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/meeting_rooms.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/meeting_rooms.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/meeting_rooms.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/zero_array_transformation_2.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/zero_array_transformation_2.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/zero_array_transformation_2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/race_car.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/race_car.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/race_car.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/single_number_2.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/single_number_2.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/single_number_2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/reorganize_string.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/reorganize_string.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/reorganize_string.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/contiguous_array.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/contiguous_array.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/contiguous_array.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/linked_list_cycle_2.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/linked_list_cycle_2.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/linked_list_cycle_2.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/find_the_celebrity.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/find_the_celebrity.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/find_the_celebrity.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/reverse_words_in_string.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/reverse_words_in_string.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/reverse_words_in_string.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/integer_to_english_words.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/integer_to_english_words.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/integer_to_english_words.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/subarray_sum_equals_k.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/subarray_sum_equals_k.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/subarray_sum_equals_k.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/top_k_frequent_elements.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/top_k_frequent_elements.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/top_k_frequent_elements.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/product_of_last_k_numbers.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/product_of_last_k_numbers.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/product_of_last_k_numbers.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/shortest_distance_from_all_buildings.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/shortest_distance_from_all_buildings.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/shortest_distance_from_all_buildings.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/maximum_beauty_of_array.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximum_beauty_of_array.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/maximum_beauty_of_array.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/two_best_non_overlapping_events.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/two_best_non_overlapping_events.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/two_best_non_overlapping_events.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/move_pieces_to_obtain_string.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/move_pieces_to_obtain_string.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/move_pieces_to_obtain_string.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minimum_limit_of_balls_in_bag.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_limit_of_balls_in_bag.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minimum_limit_of_balls_in_bag.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/flatten_binary_tree_to_linked_list.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/flatten_binary_tree_to_linked_list.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/flatten_binary_tree_to_linked_list.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_repeating_character_replacement.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_repeating_character_replacement.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_repeating_character_replacement.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/add_spaces_to_string.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/add_spaces_to_string.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/add_spaces_to_string.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/find_the_power_of_k_size_subarrays.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/find_the_power_of_k_size_subarrays.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/find_the_power_of_k_size_subarrays.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minimum_area_rectangle.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_area_rectangle.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minimum_area_rectangle.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/reveal_cards_in_increasing_order.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/reveal_cards_in_increasing_order.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/reveal_cards_in_increasing_order.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/flip_columns_for_maximum_number_of_equal_rows.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/flip_columns_for_maximum_number_of_equal_rows.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/flip_columns_for_maximum_number_of_equal_rows.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/the_earliest_moment_everyone_becomes_friends.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/the_earliest_moment_everyone_becomes_friends.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/the_earliest_moment_everyone_becomes_friends.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_arithmetic_subsequence_of_given_difference.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_arithmetic_subsequence_of_given_difference.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_arithmetic_subsequence_of_given_difference.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/the_kth_factor_of_n.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/the_kth_factor_of_n.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/the_kth_factor_of_n.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/frequency_of_the_most_frequent_element.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/frequency_of_the_most_frequent_element.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/frequency_of_the_most_frequent_element.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/count_unguarded_cells_in_grid.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/count_unguarded_cells_in_grid.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/count_unguarded_cells_in_grid.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/continuous_subarray.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/continuous_subarray.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/continuous_subarray.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/koko_eating_bananas.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/koko_eating_bananas.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/koko_eating_bananas.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/maximum_subarray_of_distinct_subarray_with_length_k.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximum_subarray_of_distinct_subarray_with_length_k.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/maximum_subarray_of_distinct_subarray_with_length_k.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/identify_largest_outlier_in_array.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/identify_largest_outlier_in_array.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/identify_largest_outlier_in_array.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/horizon.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/horizon.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/horizon.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/triangle.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/triangle.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/triangle.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/construct_string_with_repeat_limit.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/construct_string_with_repeat_limit.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/construct_string_with_repeat_limit.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/number_of_connected_components_in_undirected_graph.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/number_of_connected_components_in_undirected_graph.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/number_of_connected_components_in_undirected_graph.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/count_numbers_with_unique_digits.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/count_numbers_with_unique_digits.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/count_numbers_with_unique_digits.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/furthest_building_you_can_reach.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/furthest_building_you_can_reach.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/furthest_building_you_can_reach.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/sort_transformed_array.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/sort_transformed_array.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/sort_transformed_array.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/median_of_two_sorted_arrays.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/median_of_two_sorted_arrays.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/median_of_two_sorted_arrays.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/split_array_largest_sum.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/split_array_largest_sum.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/split_array_largest_sum.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minimum_time_to_visit_cell_in_grid.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_time_to_visit_cell_in_grid.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minimum_time_to_visit_cell_in_grid.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/minimum_window_subsequence.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/minimum_window_subsequence.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/minimum_window_subsequence.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/maximal_rectangle.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/maximal_rectangle.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/maximal_rectangle.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/russian_doll_envelopes.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/russian_doll_envelopes.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/russian_doll_envelopes.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/longest_increasing_subsequence.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/longest_increasing_subsequence.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/longest_increasing_subsequence.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/odd_even_jump.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/odd_even_jump.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/odd_even_jump.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/sum_of_subarray_minimums.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/sum_of_subarray_minimums.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/sum_of_subarray_minimums.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/regular_expression_matching.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/regular_expression_matching.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/regular_expression_matching.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/count_of_smaller_numbers_after_self.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/count_of_smaller_numbers_after_self.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/count_of_smaller_numbers_after_self.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/C__.dir
+  OBJECT_FILE_DIR = CMakeFiles/C__.dir
+
+build CMakeFiles/C__.dir/reverse_pairs.cpp.o: CXX_COMPILER__C___unscanned_Debug /Users/rahulvaddepally/CLionProjects/C++/reverse_pairs.cpp || cmake_object_order_depends_target_C__
+  DEP_FILE = CMakeFiles/C__.dir/reverse_pairs.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/C__.dir
   OBJECT_FILE_DIR = CMakeFiles/C__.dir
 
@@ -255,8 +945,8 @@ build CMakeFiles/C__.dir/course_schedule.cpp.o: CXX_COMPILER__C___unscanned_Debu
 #############################################
 # Link the executable C__
 
-build C__: CXX_EXECUTABLE_LINKER__C___Debug CMakeFiles/C__.dir/main.cpp.o CMakeFiles/C__.dir/dijkstras_algorithm.cpp.o CMakeFiles/C__.dir/reverse_linked_list.cpp.o CMakeFiles/C__.dir/merge_linked_lists.cpp.o CMakeFiles/C__.dir/shift_linked_list.cpp.o CMakeFiles/C__.dir/lowest_common_manager.cpp.o CMakeFiles/C__.dir/interweaving_strings.cpp.o CMakeFiles/C__.dir/find_loop.cpp.o CMakeFiles/C__.dir/climbing_stairs.cpp.o CMakeFiles/C__.dir/minimum_score_triangulation_of_polygon.cpp.o CMakeFiles/C__.dir/egg_drop.cpp.o CMakeFiles/C__.dir/burst_ballons.cpp.o CMakeFiles/C__.dir/solve_sudoku.cpp.o CMakeFiles/C__.dir/generate_div_tags.cpp.o CMakeFiles/C__.dir/ambiguous_measurement.cpp.o CMakeFiles/C__.dir/shifted_binary_search.cpp.o CMakeFiles/C__.dir/search_for_range.cpp.o CMakeFiles/C__.dir/quick_sort.cpp.o CMakeFiles/C__.dir/quick_select.cpp.o CMakeFiles/C__.dir/index_equals_value.cpp.o CMakeFiles/C__.dir/heap_sort.cpp.o CMakeFiles/C__.dir/shorten_path.cpp.o CMakeFiles/C__.dir/largest_rectangle_under_skyline.cpp.o CMakeFiles/C__.dir/longest_substring_without_duplication.cpp.o CMakeFiles/C__.dir/maximum_subarray.cpp.o CMakeFiles/C__.dir/insert_interval.cpp.o CMakeFiles/C__.dir/01_matrix.cpp.o CMakeFiles/C__.dir/k_closest_points_to_origin.cpp.o CMakeFiles/C__.dir/3sum.cpp.o CMakeFiles/C__.dir/binary_tree_level_order_traversal.cpp.o CMakeFiles/C__.dir/clone_graph.cpp.o CMakeFiles/C__.dir/postfix_evaluate.cpp.o CMakeFiles/C__.dir/course_schedule.cpp.o
-  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -mmacosx-version-min=14.7
+build C__: CXX_EXECUTABLE_LINKER__C___Debug CMakeFiles/C__.dir/main.cpp.o CMakeFiles/C__.dir/dijkstras_algorithm.cpp.o CMakeFiles/C__.dir/reverse_linked_list.cpp.o CMakeFiles/C__.dir/merge_linked_lists.cpp.o CMakeFiles/C__.dir/shift_linked_list.cpp.o CMakeFiles/C__.dir/lowest_common_manager.cpp.o CMakeFiles/C__.dir/interweaving_strings.cpp.o CMakeFiles/C__.dir/find_loop.cpp.o CMakeFiles/C__.dir/climbing_stairs.cpp.o CMakeFiles/C__.dir/minimum_score_triangulation_of_polygon.cpp.o CMakeFiles/C__.dir/egg_drop.cpp.o CMakeFiles/C__.dir/burst_ballons.cpp.o CMakeFiles/C__.dir/solve_sudoku.cpp.o CMakeFiles/C__.dir/generate_div_tags.cpp.o CMakeFiles/C__.dir/ambiguous_measurement.cpp.o CMakeFiles/C__.dir/shifted_binary_search.cpp.o CMakeFiles/C__.dir/search_for_range.cpp.o CMakeFiles/C__.dir/quick_sort.cpp.o CMakeFiles/C__.dir/quick_select.cpp.o CMakeFiles/C__.dir/index_equals_value.cpp.o CMakeFiles/C__.dir/heap_sort.cpp.o CMakeFiles/C__.dir/shorten_path.cpp.o CMakeFiles/C__.dir/largest_rectangle_under_skyline.cpp.o CMakeFiles/C__.dir/longest_substring_without_duplication.cpp.o CMakeFiles/C__.dir/maximum_subarray.cpp.o CMakeFiles/C__.dir/insert_interval.cpp.o CMakeFiles/C__.dir/01_matrix.cpp.o CMakeFiles/C__.dir/k_closest_points_to_origin.cpp.o CMakeFiles/C__.dir/3sum.cpp.o CMakeFiles/C__.dir/binary_tree_level_order_traversal.cpp.o CMakeFiles/C__.dir/clone_graph.cpp.o CMakeFiles/C__.dir/postfix_evaluate.cpp.o CMakeFiles/C__.dir/course_schedule.cpp.o CMakeFiles/C__.dir/minimum_fountains.cpp.o CMakeFiles/C__.dir/max_events_attended.cpp.o CMakeFiles/C__.dir/longest_binary_tree_consecutive_sequence.cpp.o CMakeFiles/C__.dir/longest_substring_containing_vowels_in_even.cpp.o CMakeFiles/C__.dir/minimum_window_substring.cpp.o CMakeFiles/C__.dir/contains_duplicate_2.cpp.o CMakeFiles/C__.dir/longest_harmonious_subsequence.cpp.o CMakeFiles/C__.dir/maximum_average_subarray.cpp.o CMakeFiles/C__.dir/find_k_beauty_of_number.cpp.o CMakeFiles/C__.dir/maximum_length_substring.cpp.o CMakeFiles/C__.dir/longest_nice_substring.cpp.o CMakeFiles/C__.dir/trapping_rain_water.cpp.o CMakeFiles/C__.dir/word_ladder.cpp.o CMakeFiles/C__.dir/basic_calculator.cpp.o CMakeFiles/C__.dir/infix_to_postfix.cpp.o CMakeFiles/C__.dir/maximum_profit_in_job_scheduling.cpp.o CMakeFiles/C__.dir/largest_rectangle_in_histogram.cpp.o CMakeFiles/C__.dir/sliding_window_maximum.cpp.o CMakeFiles/C__.dir/first_missing_positive.cpp.o CMakeFiles/C__.dir/paliindrome_pairs.cpp.o CMakeFiles/C__.dir/word_ladder_2.cpp.o CMakeFiles/C__.dir/bus_routes.cpp.o CMakeFiles/C__.dir/longest_increasing_path_in_matrix.cpp.o CMakeFiles/C__.dir/lru_cache.cpp.o CMakeFiles/C__.dir/reverse_nodes_in_k_group.cpp.o CMakeFiles/C__.dir/smallest_range_covering_elements_from_k_lists.cpp.o CMakeFiles/C__.dir/binary_tree_maximum_path_sum.cpp.o CMakeFiles/C__.dir/maximum_frequency_stack.cpp.o CMakeFiles/C__.dir/n_queens.cpp.o CMakeFiles/C__.dir/super_egg_drop.cpp.o CMakeFiles/C__.dir/evaluate_reverse_polish_notation.cpp.o CMakeFiles/C__.dir/implement_trie.cpp.o CMakeFiles/C__.dir/coin_change.cpp.o CMakeFiles/C__.dir/product_of_array_except_self.cpp.o CMakeFiles/C__.dir/validate_binary_search_tree.cpp.o CMakeFiles/C__.dir/number_of_islands.cpp.o CMakeFiles/C__.dir/rotting_oranges.cpp.o CMakeFiles/C__.dir/combination_sum.cpp.o CMakeFiles/C__.dir/permutations.cpp.o CMakeFiles/C__.dir/lowest_common_ancestor_of_binary_tree.cpp.o CMakeFiles/C__.dir/word_break.cpp.o CMakeFiles/C__.dir/partition_equal_subset_sum.cpp.o CMakeFiles/C__.dir/subsets.cpp.o CMakeFiles/C__.dir/binary_tree_right_side_view.cpp.o CMakeFiles/C__.dir/unique_paths.cpp.o CMakeFiles/C__.dir/construct_binary_tree_from_preorder_inorder.cpp.o CMakeFiles/C__.dir/container_with_most_water.cpp.o CMakeFiles/C__.dir/word_search.cpp.o CMakeFiles/C__.dir/find_all_anagrams_in_string.cpp.o CMakeFiles/C__.dir/minimum_height_trees.cpp.o CMakeFiles/C__.dir/task_scheduler.cpp.o CMakeFiles/C__.dir/kth_smallest_element_in_bst.cpp.o CMakeFiles/C__.dir/daily_temperatures.cpp.o CMakeFiles/C__.dir/house_robber.cpp.o CMakeFiles/C__.dir/minesweeper.cpp.o CMakeFiles/C__.dir/partition_to_k_equal_subsets.cpp.o CMakeFiles/C__.dir/merge_sort.cpp.o CMakeFiles/C__.dir/gas_station.cpp.o CMakeFiles/C__.dir/serialize_deserialize_binary_tree.cpp.o CMakeFiles/C__.dir/longest_valid_parentheses.cpp.o CMakeFiles/C__.dir/zero_array_transformation.cpp.o CMakeFiles/C__.dir/meeting_rooms_2.cpp.o CMakeFiles/C__.dir/meeting_rooms.cpp.o CMakeFiles/C__.dir/zero_array_transformation_2.cpp.o CMakeFiles/C__.dir/race_car.cpp.o CMakeFiles/C__.dir/single_number_2.cpp.o CMakeFiles/C__.dir/reorganize_string.cpp.o CMakeFiles/C__.dir/contiguous_array.cpp.o CMakeFiles/C__.dir/linked_list_cycle_2.cpp.o CMakeFiles/C__.dir/find_the_celebrity.cpp.o CMakeFiles/C__.dir/reverse_words_in_string.cpp.o CMakeFiles/C__.dir/integer_to_english_words.cpp.o CMakeFiles/C__.dir/subarray_sum_equals_k.cpp.o CMakeFiles/C__.dir/top_k_frequent_elements.cpp.o CMakeFiles/C__.dir/product_of_last_k_numbers.cpp.o CMakeFiles/C__.dir/shortest_distance_from_all_buildings.cpp.o CMakeFiles/C__.dir/maximum_beauty_of_array.cpp.o CMakeFiles/C__.dir/two_best_non_overlapping_events.cpp.o CMakeFiles/C__.dir/move_pieces_to_obtain_string.cpp.o CMakeFiles/C__.dir/minimum_limit_of_balls_in_bag.cpp.o CMakeFiles/C__.dir/flatten_binary_tree_to_linked_list.cpp.o CMakeFiles/C__.dir/longest_repeating_character_replacement.cpp.o CMakeFiles/C__.dir/add_spaces_to_string.cpp.o CMakeFiles/C__.dir/find_the_power_of_k_size_subarrays.cpp.o CMakeFiles/C__.dir/minimum_area_rectangle.cpp.o CMakeFiles/C__.dir/reveal_cards_in_increasing_order.cpp.o CMakeFiles/C__.dir/flip_columns_for_maximum_number_of_equal_rows.cpp.o CMakeFiles/C__.dir/the_earliest_moment_everyone_becomes_friends.cpp.o CMakeFiles/C__.dir/longest_arithmetic_subsequence_of_given_difference.cpp.o CMakeFiles/C__.dir/the_kth_factor_of_n.cpp.o CMakeFiles/C__.dir/frequency_of_the_most_frequent_element.cpp.o CMakeFiles/C__.dir/count_unguarded_cells_in_grid.cpp.o CMakeFiles/C__.dir/continuous_subarray.cpp.o CMakeFiles/C__.dir/koko_eating_bananas.cpp.o CMakeFiles/C__.dir/maximum_subarray_of_distinct_subarray_with_length_k.cpp.o CMakeFiles/C__.dir/identify_largest_outlier_in_array.cpp.o CMakeFiles/C__.dir/horizon.cpp.o CMakeFiles/C__.dir/triangle.cpp.o CMakeFiles/C__.dir/construct_string_with_repeat_limit.cpp.o CMakeFiles/C__.dir/number_of_connected_components_in_undirected_graph.cpp.o CMakeFiles/C__.dir/count_numbers_with_unique_digits.cpp.o CMakeFiles/C__.dir/furthest_building_you_can_reach.cpp.o CMakeFiles/C__.dir/sort_transformed_array.cpp.o CMakeFiles/C__.dir/median_of_two_sorted_arrays.cpp.o CMakeFiles/C__.dir/split_array_largest_sum.cpp.o CMakeFiles/C__.dir/minimum_time_to_visit_cell_in_grid.cpp.o CMakeFiles/C__.dir/minimum_window_subsequence.cpp.o CMakeFiles/C__.dir/maximal_rectangle.cpp.o CMakeFiles/C__.dir/russian_doll_envelopes.cpp.o CMakeFiles/C__.dir/longest_increasing_subsequence.cpp.o CMakeFiles/C__.dir/odd_even_jump.cpp.o CMakeFiles/C__.dir/sum_of_subarray_minimums.cpp.o CMakeFiles/C__.dir/regular_expression_matching.cpp.o CMakeFiles/C__.dir/count_of_smaller_numbers_after_self.cpp.o CMakeFiles/C__.dir/reverse_pairs.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
   OBJECT_DIR = CMakeFiles/C__.dir
   POST_BUILD = :
   PRE_LINK = :

@@ -5,7 +5,7 @@ string longestPalindrome(string str) {
     int s=str.length();
     int left,right;
     int index=0;
-    int sol=0;
+    int sol=1;
 
     for (int i=0;i<s-1;i++) {
         left=i;
@@ -27,7 +27,7 @@ string longestPalindrome(string str) {
         }
     }
 
-    for (int i=1;i<s-2;i++) {
+    for (int i=1;i<=s-2;i++) {
         left=i-1;
         right=i+1;
 

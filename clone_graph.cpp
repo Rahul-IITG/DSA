@@ -22,23 +22,23 @@ public:
     }
 };
 
-Node* explore(Node* node, Node* head, vector<int> &vis, unordered_map<int,Node*> &umap) {
+Node* explore(Node* node, Node* root, unordered_map<Node*,int> &vis, unordered_map<int,Node*> & nodes) {
     int s=node->neighbors.size();
 
     for (int i=0;i<s;i++) {
-        if (vis[node->neighbors[i]->val]==-1) {
-            vis[node->neighbors[i]->val]=1;
-            Node* curr=new Node(node->neighbors[i]->val);
-            umap[node->neighbors[i]->val]=curr;
-            curr=explore(node->neighbors[i],curr,vis,umap);
-            head->neighbors.push_back(curr);
+        if (vis[node->neighbors[i]]==0) {
+            vis[node->neighbors[i]]=1;
+            Node* neigh=new Node(node->neighbors[i]->val);
+            nodes[neigh->val]=neigh;
+            neigh=explore(node->neighbors[i],neigh, vis,nodes);
+            root->neighbors.push_back(neigh);
         }
         else {
-            head->neighbors.push_back(umap[node->neighbors[i]->val]);
+            root->neighbors.push_back(nodes[node->neighbors[i]->val]);
         }
     }
 
-    return head;
+    return root;
 }
 
 Node* cloneGraph(Node* node) {
@@ -46,26 +46,25 @@ Node* cloneGraph(Node* node) {
         return nullptr;
     }
 
-    Node* head;
-    head=new Node(node->val);
-    vector<int> vis(1000,-1);
-    vis[head->val]=1;
+    unordered_map<Node*,int> vis;
+    unordered_map<int,Node*> nodes;
+    vis[node]=1;
+    nodes[node->val]=node;
+    Node* root=new Node(node->val);
     int s=node->neighbors.size();
-    unordered_map<int,Node*> umap;
-    umap[head->val]=head;
 
     for (int i=0;i<s;i++) {
-        if (vis[node->neighbors[i]->val]==-1) {
-            vis[node->neighbors[i]->val]=1;
-            Node* curr=new Node(node->neighbors[i]->val);
-            umap[node->neighbors[i]->val]=curr;
-            curr=explore(node->neighbors[i],curr,vis,umap);
-            head->neighbors.push_back(curr);
+        if (vis[node->neighbors[i]]==0) {
+            vis[node->neighbors[i]]=1;
+            Node* neigh=new Node(node->neighbors[i]->val);
+            nodes[neigh->val]=neigh;
+            neigh=explore(node->neighbors[i],neigh, vis,nodes);
+            root->neighbors.push_back(neigh);
         }
         else {
-            head->neighbors.push_back(umap[node->neighbors[i]->val]);
+            root->neighbors.push_back(nodes[node->neighbors[i]->val]);
         }
     }
 
-    return head;
+    return root;
 }

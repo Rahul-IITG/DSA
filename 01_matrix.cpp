@@ -2,72 +2,37 @@
 #include <vector>
 using namespace std;
 
+vector<vector<int>> dir={{0,-1},{0,1},{-1,0},{1,0}};
+
 vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
     int m=mat.size();
     int n=mat[0].size();
 
     vector<vector<int>> dist(m,vector<int>(n,INT_MAX));
-    vector<vector<int>> vis(m,vector<int>(n,-1));
-
     queue<vector<int>> q;
 
     for (int i=0;i<m;i++) {
         for (int j=0;j<n;j++) {
-            if (mat[i][j]!=0) {
-                continue;
+            if (mat[i][j]==0) {
+                dist[i][j]=0;
+                q.push({i,j});
             }
-
-            vector<int> curr;
-            curr.push_back(i);
-            curr.push_back(j);
-            q.push(curr);
-            dist[i][j]=0;
-            vis[i][j]=1;
         }
     }
 
-    int s=q.size();
-    vector<int> next;
-
-    while (s) {
+    while (!q.empty()) {
         vector<int> curr=q.front();
         q.pop();
-        s--;
 
-        if (curr[0]-1>=0&&vis[curr[0]-1][curr[1]]==-1) {
-            vis[curr[0]-1][curr[1]]=1;
-            dist[curr[0]-1][curr[1]]=dist[curr[0]][curr[1]]+1;
-            next=curr;
-            next[0]=next[0]-1;
-            q.push(next);
-            s++;
-        }
-
-        if (curr[0]+1<m&&vis[curr[0]+1][curr[1]]==-1) {
-            vis[curr[0]+1][curr[1]]=1;
-            dist[curr[0]+1][curr[1]]=dist[curr[0]][curr[1]]+1;
-            next=curr;
-            next[0]=next[0]+1;
-            q.push(next);
-            s++;
-        }
-
-        if (curr[1]-1>=0&&vis[curr[0]][curr[1]-1]==-1) {
-            vis[curr[0]][curr[1]-1]=1;
-            dist[curr[0]][curr[1]-1]=dist[curr[0]][curr[1]]+1;
-            next=curr;
-            next[1]=next[1]-1;
-            q.push(next);
-            s++;
-        }
-
-        if (curr[1]+1<n&&vis[curr[0]][curr[1]+1]==-1) {
-            vis[curr[0]][curr[1]+1]=1;
-            dist[curr[0]][curr[1]+1]=dist[curr[0]][curr[1]]+1;
-            next=curr;
-            next[1]=next[1]+1;
-            q.push(next);
-            s++;
+        for (int i=0;i<4;i++) {
+            int x=curr[0]+dir[i][0];
+            int y=curr[1]+dir[i][1];
+            if (x>=0&&x<m&&y>=0&&y<n) {
+                if (dist[x][y]>1+dist[curr[0]][curr[1]]) {
+                    dist[x][y]>1+dist[curr[0]][curr[1]];
+                    q.push({x,y});
+                }
+            }
         }
     }
 

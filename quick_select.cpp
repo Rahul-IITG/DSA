@@ -21,8 +21,8 @@ vector<int> quickSort(vector<int> array, int k, ) {
         }
     }
 
-    first=quickSort(first);
-    second=quickSort(second);
+    //first=quickSort(first);
+    //second=quickSort(second);
     vector<int> sol;
     int fs=first.size();
 

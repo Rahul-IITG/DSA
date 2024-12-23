@@ -1,19 +1,20 @@
+#include <unordered_map>
 #include <vector>
 using namespace std;
 
-void permutate(int s, vector<int> array, vector<int> &vis, vector<vector<int>> &sol, vector<int> curr, int k) {
-    if (k==s) {
+void permutate(int size, int &s, vector<int> &array, vector<int> curr, vector<vector<int>> &sol, unordered_map<int,int> &umap, unordered_map<int,int> cmap) {
+    if (size==s) {
         sol.push_back(curr);
         return;
     }
 
     for (int i=0;i<s;i++) {
-        if (vis[i]==0) {
-            vis[i]=1;
-            vector<int> cc=curr;
-            cc.push_back(array[i]);
-            permutate(s,array,vis,sol,cc,k+1);
-            vis[i]=0;
+        if (cmap[array[i]]<umap[array[i]]) {
+            cmap[array[i]]++;
+            curr.push_back(array[i]);
+            permutate(size+1,s,array,curr,sol,umap,cmap);
+            cmap[array[i]]--;
+            curr.pop_back();
         }
     }
 
@@ -23,16 +24,16 @@ void permutate(int s, vector<int> array, vector<int> &vis, vector<vector<int>> &
 vector<vector<int>> getPermutations(vector<int> array) {
     int s=array.size();
 
-    vector<int> vis(s,0);
+    vector<int> curr;
     vector<vector<int>> sol;
+    unordered_map<int,int> umap;
 
     for (int i=0;i<s;i++) {
-        vis[i]=1;
-        vector<int> curr;
-        curr.push_back(array[i]);
-        permutate(s,array,vis,sol,curr,1);
-        vis[i]=0;
+        umap[array[i]]++;
     }
+
+    unordered_map<int,int> cmap;
+    permutate(0,s,array,curr,sol,umap,cmap);
 
     return sol;
 }

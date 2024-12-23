@@ -1,7 +1,7 @@
 #include <vector>
 using namespace std;
 
-bool checkRow(int row, int col, int k, vector<vector<int>> board) {
+bool checkRow(int row, int col, int k, vector<vector<int>> &board) {
     for (int i=0;i<9;i++) {
         if (board[row][i]==k) {
             return false;
@@ -11,7 +11,7 @@ bool checkRow(int row, int col, int k, vector<vector<int>> board) {
     return true;
 }
 
-bool checkCol(int row, int col, int k, vector<vector<int>> board) {
+bool checkCol(int row, int col, int k, vector<vector<int>> &board) {
     for (int i=0;i<9;i++) {
         if (board[i][col]==k) {
             return false;
@@ -21,7 +21,7 @@ bool checkCol(int row, int col, int k, vector<vector<int>> board) {
     return true;
 }
 
-bool checkBox(int row, int col, int k, vector<vector<int>> board) {
+bool checkBox(int row, int col, int k, vector<vector<int>> &board) {
     row=(row/3)*3;
     col=(col/3)*3;
 

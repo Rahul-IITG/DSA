@@ -12,32 +12,29 @@ struct TreeNode {
 };
 
 vector<vector<int>> levelOrder(TreeNode* root) {
-       vector<vector<int>> sol;
-       if (root==nullptr) {
-              return sol;
-       }
        queue<TreeNode*> q;
        q.push(root);
-       vector<int> curr;
+       vector<vector<int>> sol;
        int s=1;
+       vector<int> level;
 
        while (s) {
-              TreeNode* node=q.front();
+              TreeNode* curr=q.front();
+              level.push_back(curr->val);
               q.pop();
               s--;
-              curr.push_back(node->val);
 
-              if (node->left!=nullptr) {
-                     q.push(node->left);
+              if (curr->left!=nullptr) {
+                     q.push(curr->left);
               }
-              if (node->right!=nullptr) {
-                     q.push(node->right);
+              if (curr->right!=nullptr) {
+                     q.push(curr->right);
               }
 
               if (s==0) {
+                     sol.push_back(level);
+                     level.clear();
                      s=q.size();
-                     sol.push_back(curr);
-                     curr.clear();
               }
        }
 

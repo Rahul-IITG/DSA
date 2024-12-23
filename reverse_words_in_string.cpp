@@ -11,13 +11,19 @@ string reverseWordsInString(string str) {
 
     for (int i=0;i<s;i++) {
         if (str[i]==' ') {
-            lst.push_back(curr);
-            curr=" ";
-            continue;
+            if (curr!="") {
+                lst.push_back(curr);
+                curr="";
+            }
         }
         else {
             curr.push_back(str[i]);
         }
+    }
+
+    if (curr!="") {
+        lst.push_back(curr);
+        curr="";
     }
 
     s=lst.size();

@@ -8,7 +8,7 @@ bool comp_func(vector<int> &a, vector<int> &b) {
 vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
     intervals.push_back(newInterval);
     int s=intervals.size();
-    sort(intervals.begin(),intervals.end(),comp_func);
+    sort(intervals.begin(), intervals.end(), comp_func);
 
     vector<vector<int>> sol;
     vector<int> curr;
@@ -22,7 +22,6 @@ vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInter
         }
         if (curr[1]>=intervals[i][0]) {
             curr[1]=max(curr[1],intervals[i][1]);
-            continue;
         }
     }
 
